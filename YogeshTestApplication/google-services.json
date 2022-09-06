@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "431009747945",
+    "project_id": "yogeshdemo-1fc07",
+    "storage_bucket": "yogeshdemo-1fc07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431009747945:android:71e661dddb35a6ef8cb178",
+        "android_client_info": {
+          "package_name": "com.example.yogeshtestapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431009747945-7r5aenjghfptslqi62ld7b3g06oq8f2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx3J-gDs3l6dq3djv1nA879bNXcDTOP8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431009747945-7r5aenjghfptslqi62ld7b3g06oq8f2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
